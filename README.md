@@ -22,6 +22,6 @@ Welcome to the Oyo Power BI Dashboard project! This dynamic Power BI dashboard w
 - **Strategic Decision Support:** The dashboard provides valuable insights guiding strategic decisions, resulting in an 18% increase in revenue optimization.
 
 ## Dashboard Screenshots
-<img width="632" alt="image" src="https://github.com/dedhiaraj2002/Oyo-Power-BI-Dashboard/assets/58104026/f1d23787-5613-4f55-82b3-78311c752857">
+<img width="632" alt="image" src="https://drive.google.com/file/d/1IPEFJVVV-yvM4EjoVrCnRbm65XZi1-aL/view?usp=sharing">
 
 
